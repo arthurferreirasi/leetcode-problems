@@ -1,0 +1,14 @@
+/Users/arthurferreira/Documents/Dev/leetcode-csharp/bin/Debug/net8.0/leetcode-csharp
+/Users/arthurferreira/Documents/Dev/leetcode-csharp/bin/Debug/net8.0/leetcode-csharp.deps.json
+/Users/arthurferreira/Documents/Dev/leetcode-csharp/bin/Debug/net8.0/leetcode-csharp.runtimeconfig.json
+/Users/arthurferreira/Documents/Dev/leetcode-csharp/bin/Debug/net8.0/leetcode-csharp.dll
+/Users/arthurferreira/Documents/Dev/leetcode-csharp/bin/Debug/net8.0/leetcode-csharp.pdb
+/Users/arthurferreira/Documents/Dev/leetcode-csharp/obj/Debug/net8.0/leetcode-csharp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/arthurferreira/Documents/Dev/leetcode-csharp/obj/Debug/net8.0/leetcode-csharp.AssemblyInfoInputs.cache
+/Users/arthurferreira/Documents/Dev/leetcode-csharp/obj/Debug/net8.0/leetcode-csharp.AssemblyInfo.cs
+/Users/arthurferreira/Documents/Dev/leetcode-csharp/obj/Debug/net8.0/leetcode-csharp.csproj.CoreCompileInputs.cache
+/Users/arthurferreira/Documents/Dev/leetcode-csharp/obj/Debug/net8.0/leetcode-csharp.dll
+/Users/arthurferreira/Documents/Dev/leetcode-csharp/obj/Debug/net8.0/refint/leetcode-csharp.dll
+/Users/arthurferreira/Documents/Dev/leetcode-csharp/obj/Debug/net8.0/leetcode-csharp.pdb
+/Users/arthurferreira/Documents/Dev/leetcode-csharp/obj/Debug/net8.0/leetcode-csharp.genruntimeconfig.cache
+/Users/arthurferreira/Documents/Dev/leetcode-csharp/obj/Debug/net8.0/ref/leetcode-csharp.dll
